@@ -3,3 +3,5 @@ This bot can play music in voice channels from Spotify, Deezer, and YouTube. The
 This bot uses the yt_dlp API with OAuth2 to bypass bot detection. It also uses the Spotify API, which requires a token, and the Google API for searching. However, the Google API can be replaced with youtube-search.
 
 Special thanks to ChatGPT for helping me write this README. 😆
+
+The code is coming soon!
