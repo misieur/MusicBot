@@ -401,7 +401,7 @@ async def playdeezer(interaction: Interaction, url: str):
     await interaction.edit_original_response(embed=em1,view=PlayView(interaction))
     await bot.change_presence(activity=discord. Activity(type=discord.ActivityType.listening, name=f'{track_name} - {artist_name}'))
     
-
+#I forgot to remove it but if anyone is interested that's great.
 async def playspotifydemo(interaction: Interaction, url: str):
     
     # Get track information
